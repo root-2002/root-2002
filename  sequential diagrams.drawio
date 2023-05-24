@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T15:40:47.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="73FCQoLMiUJ47fD1yI8a" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T15:57:09.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZjGm_FYQSptJBpJepk5a" version="21.3.2" type="github">
   <diagram name="Page-1" id="_14LEz57tPDZyepLyran">
-    <mxGraphModel dx="1900" dy="510" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2733" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -581,6 +581,27 @@
         </mxCell>
         <mxCell id="bWhP5Y5CZ18dqKm11m_Y-59" value="He has bail" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="362" y="635" width="82" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bWhP5Y5CZ18dqKm11m_Y-61" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wd9jZNYNMY0b6v13ebfj-6" target="bWhP5Y5CZ18dqKm11m_Y-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="1564" as="sourcePoint" />
+            <mxPoint x="454" y="1499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWhP5Y5CZ18dqKm11m_Y-63" value="Manages" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1476" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWhP5Y5CZ18dqKm11m_Y-64" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWhP5Y5CZ18dqKm11m_Y-63" target="wd9jZNYNMY0b6v13ebfj-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="596" y="1515" as="sourcePoint" />
+            <mxPoint x="646" y="1465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWhP5Y5CZ18dqKm11m_Y-68" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="289" y="1405" width="27" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="bWhP5Y5CZ18dqKm11m_Y-69" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="856" y="1410" width="27" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
